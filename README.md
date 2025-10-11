@@ -1,5 +1,5 @@
 <div align="center" width="50">
-
+<h2 align="center">Welcome to my GitHub profile</h2>
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br> 
 
@@ -7,7 +7,7 @@
 
 <hr>
 
-<h2 align="center">Welcome to my GitHub profile</h2>
+
 
 <div align="center">
 
