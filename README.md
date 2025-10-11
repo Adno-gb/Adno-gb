@@ -7,13 +7,13 @@
 
 <hr>
 
-<h2 align="center">👋 Welcome to my GitHub profile</h2>
+<h2 align="center">Welcome to my GitHub profile</h2>
 
 <div align="center">
 
 🧑‍💻 I'm <strong>Adno-gb</strong>  
-A passionate learner and programmer who enjoys building and understanding how things work behind the code.  
-Currently focusing on improving my skills in <strong>C++</strong> and writing clean, efficient code.
+A passionate learner and programmer who enjoys building and understanding how things work behind the code  
+Currently focusing on improving my skills in <strong>C++</strong> and writing clean efficient code
 
 </div>
 
@@ -22,11 +22,6 @@ Currently focusing on improving my skills in <strong>C++</strong> and writing cl
 ### 🧰 Tools & Technologies I Use
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![GNU/Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
-
 ```cpp
 // About me
 
@@ -34,7 +29,7 @@ Currently focusing on improving my skills in <strong>C++</strong> and writing cl
 using namespace std;
 
 int main() {
-    cout << "Hello there! I'm Adno-gb, a C++ programmer 👋" << endl;
-    cout << "I love writing clean code and learning something new every day!" << endl;
+    cout << "Hello I'm Adno-gb a C++ programmer " << endl;
+    cout << "I love writing clean code and learning something new every day" << endl;
     return 0;
 }
