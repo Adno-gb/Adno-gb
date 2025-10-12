@@ -51,7 +51,6 @@ Currently focusing on improving my skills in <strong>C++</strong> and writing cl
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adno-gb&layout=compact&theme=tokyonight" width="48%">
 
 
-</div>
 <hr>
 <div align="center">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Slightly%20Smiling%20Face.png" width="10%" alt="Happy Coding"/>
