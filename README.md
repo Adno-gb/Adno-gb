@@ -16,7 +16,11 @@ A passionate learner and programmer who enjoys building and understanding how th
 Currently focusing on improving my skills in <strong>C++</strong> and writing clean efficient code
 
 </div>
+<hr>
 
+### 🧰 Tools & Technologies I Use
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 <hr>
 
 ### 🧠 Interests
@@ -55,12 +59,6 @@ Currently focusing on improving my skills in <strong>C++</strong> and writing cl
 
 </div>
 
-
-<hr>
-
-### 🧰 Tools & Technologies I Use
-
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ```cpp
 
 // About me
