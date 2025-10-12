@@ -19,23 +19,6 @@ Currently focusing on improving my skills in <strong>C++</strong> and writing cl
 
 <hr>
 
-### 🧰 Tools & Technologies I Use
-
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-```cpp
-// About me
-
-#include <iostream>
-using namespace std;
-
-int main() {
-    cout << "Hello I'm Adno-gb a C++ programmer " << endl;
-    cout << "I love writing clean code and learning something new every day" << endl;
-    return 0;
-}
-
-<hr>
-
 ### 🧠 Interests
 
 - Software development using **C++**  
@@ -72,11 +55,21 @@ int main() {
 
 </div>
 
-<div align="center">
 
-📈 <strong>My GitHub Stats</strong><br><br>
+<hr>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Adno-gb&show_icons=true&theme=tokyonight" width="48%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adno-gb&layout=compact&theme=tokyonight" width="48%">
+### 🧰 Tools & Technologies I Use
 
-</div>
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+```cpp
+
+// About me
+
+#include <iostream>
+using namespace std;
+
+int main() {
+    cout << "Hello I'm Adno-gb a C++ programmer " << endl;
+    cout << "I love writing clean code and learning something new every day" << endl;
+    return 0;
+}
