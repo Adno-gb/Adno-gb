@@ -71,3 +71,12 @@ int main() {
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adno-gb&layout=compact&theme=tokyonight" width="48%">
 
 </div>
+
+<div align="center">
+
+📈 <strong>My GitHub Stats</strong><br><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Adno-gb&show_icons=true&theme=tokyonight" width="48%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adno-gb&layout=compact&theme=tokyonight" width="48%">
+
+</div>
