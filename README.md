@@ -49,7 +49,7 @@ Currently focusing on improving my skills in <strong>C++</strong> and writing cl
 
 <img src="https://github-readme-stats.vercel.app/api?username=Adno-gb&show_icons=true&theme=tokyonight" width="48%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adno-gb&layout=compact&theme=tokyonight" width="48%">
-
+</div>
 
 
 ```cpp
