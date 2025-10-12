@@ -53,7 +53,7 @@ Currently focusing on improving my skills in <strong>C++</strong> and writing cl
 
 </div>
 
-``cpp
+
 
 // About me
 
@@ -66,6 +66,8 @@ int main() {
     return 0;
 }
 
+</div>
 <hr>
 <div align="center">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Slightly%20Smiling%20Face.png" width="10%" alt="Happy Coding"/>
+</div>
