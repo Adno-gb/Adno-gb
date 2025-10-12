@@ -50,7 +50,10 @@ Currently focusing on improving my skills in <strong>C++</strong> and writing cl
 <img src="https://github-readme-stats.vercel.app/api?username=Adno-gb&show_icons=true&theme=tokyonight" width="48%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adno-gb&layout=compact&theme=tokyonight" width="48%">
 </div>
-
+<hr>
+<div align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Slightly%20Smiling%20Face.png" width="10%" alt="Happy Coding"/>
+    </div>
 
 ```cpp
 
@@ -64,7 +67,3 @@ int main() {
     cout << "I love writing clean code and learning something new every day" << endl;
     return 0;
 }
-
-
-
-
