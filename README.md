@@ -45,10 +45,7 @@ Currently focusing on improving my skills in <strong>C++/C# .Net Framework</stro
 
 <div align="center">
 
-📈 <strong>My GitHub Stats</strong><br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=rahim-coding&show_icons=true&theme=tokyonight" width="48%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahim-coding&layout=compact&theme=tokyonight" width="48%">
 </div>
 <hr>
 <div align="center">
