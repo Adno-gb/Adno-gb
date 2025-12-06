@@ -13,7 +13,7 @@
 
 I'm <strong>Rahim Coding</strong>💻  
 A passionate learner and programmer who enjoys building and understanding how things work behind the code  
-Currently focusing on improving my skills in <strong>C++</strong> and writing clean efficient code
+Currently focusing on improving my skills in <strong>C++/C# .Net Framework</strong> and writing clean efficient code
 
 </div>
 <hr>
@@ -25,7 +25,7 @@ Currently focusing on improving my skills in <strong>C++</strong> and writing cl
 
 ### 🧠 Interests
 
-- Software development using **C++**  
+- Software development using **C++/C# .Net Framework**  
 - Exploring **GNU/Linux** systems  
 - Continuous learning and self-improvement in programming  
 
@@ -33,7 +33,7 @@ Currently focusing on improving my skills in <strong>C++</strong> and writing cl
 
 ### ✨ Current Projects
 
-- Building small **C++** projects to strengthen my logic and problem-solving skills  
+- Building small **C++/C# .Net Framework** projects to strengthen my logic and problem-solving skills  
 - Experimenting with **algorithms and data structures**  
 
 
@@ -63,7 +63,7 @@ Currently focusing on improving my skills in <strong>C++</strong> and writing cl
 using namespace std;
 
 int main() {
-    cout << "Hello I'm Adno-gb a C++ programmer " << endl;
+    cout << "Hello I'm Rahim Coding a C++/C# .Net Framework programmer " << endl;
     cout << "I love writing clean code and learning something new every day" << endl;
     return 0;
 }
