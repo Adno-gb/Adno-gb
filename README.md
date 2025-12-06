@@ -11,7 +11,7 @@
 
 <div align="center">
 
-I'm <strong>Adno-gb</strong>💻  
+I'm <strong>Rahim Coding</strong>💻  
 A passionate learner and programmer who enjoys building and understanding how things work behind the code  
 Currently focusing on improving my skills in <strong>C++</strong> and writing clean efficient code
 
